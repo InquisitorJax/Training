@@ -11,6 +11,8 @@ Write a web component that will encapsulate the features defined below and repre
 ## Design
 ![alt tag](../Images/component.jpg)
 
+https://dribbble.com/shots/1533691-Nukern-CRM-Dashboard
+
 ## Features
 The component is a week income summary component.
 It shows the following income type information:
