@@ -1,6 +1,9 @@
 # Level 2 - (Junior Grade) 
 Stuff you need everyday understanding of
 
+## Typescript
+https://app.pluralsight.com/library/courses/typescript/table-of-contents
+
 ## NPM
 https://app.pluralsight.com/library/courses/npm-playbook/table-of-contents
 
