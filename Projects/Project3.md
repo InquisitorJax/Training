@@ -30,7 +30,7 @@ The income object has three properties, one for each income type as defined abov
 The control needs to do what ever calculations are required and display the chart as per the design.
 
 Make the X-Axis the days of the week:
-Sunday Monday Tuesday.. Saterday.
+Sunday Monday Tuesday.. Saturday.
 This is a deviation from the design but more standard.
 
 Make the Y-Axis the values of income, incremented by 50.
@@ -43,4 +43,4 @@ Chart updates should be animated.
 ## Performance
 Performance is a key.
 Prevent dom thrashing, reflows and repaints at all cost.
-You can not use a library.
+You can not use a library, all graphics and animations need to be done by you or be native to the DOM technologies.
