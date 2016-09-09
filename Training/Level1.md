@@ -8,7 +8,7 @@ There are three main technologies that you must know to write any web applicatio
 3. Javascript  
 
 We also use a side technology to assist in writing javascript called typescript.  
-Even though we use Typescript it is still important to understand the fundamentals of ES2015 as you will juse many javascript features.
+Even though we use Typescript it is still important to understand the fundamentals of ES2015 as you will use many javascript features.
 
 ## JS Basics
 https://app.pluralsight.com/library/courses/javascript-from-scratch/table-of-contents
