@@ -4,6 +4,9 @@
 Rewrite Project 1 using the build-utilities.
 https://github.com/caperavensoftware/build-utilities.
 
+The application should be tested on multiple browsers on different devices.
+This includes firefox, chrome on desktop. Test the application on atleast one mobile device.
+
 Please note that this project must also be added to github please.
 
 ## Starting a new project
