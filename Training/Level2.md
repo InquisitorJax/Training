@@ -1,12 +1,6 @@
 # Level 2 - (Junior Grade) 
 Stuff you need everyday understanding of
 
-## Typescript
-https://app.pluralsight.com/library/courses/typescript/table-of-contents
-
-## NPM
-https://app.pluralsight.com/library/courses/npm-playbook/table-of-contents
-
 ## Mocha / Chai
 https://app.pluralsight.com/library/courses/unit-testing-nodejs/table-of-contents
 
@@ -19,3 +13,6 @@ https://app.pluralsight.com/library/courses/aurelia-fundamentals/table-of-conten
 
 ## Chrome Dev Tools
 https://app.pluralsight.com/library/courses/chrome-developer-tools/table-of-contents
+
+## NPM
+https://app.pluralsight.com/library/courses/npm-playbook/table-of-contents
