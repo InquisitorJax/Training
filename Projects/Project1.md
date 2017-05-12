@@ -25,6 +25,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener
+https://developer.mozilla.org/en/docs/Web/API/DocumentFragment
 
 ## Before you start
 You will need to save your projects to github so you need to create a github account.
