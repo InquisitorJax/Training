@@ -52,6 +52,11 @@ https://www.youtube.com/watch?v=6sQDTgOqh-I
 https://developer.mozilla.org/en/docs/Web/API/Window/localStorage  
 https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/
 
+## Accessability
+https://www.w3.org/TR/wai-aria/roles
+
+See. roles for listbox and listitem
+
 ## Before you start
 You will need to save your projects to github so you need to create a github account.
 Also install github desktop.
