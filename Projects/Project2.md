@@ -18,8 +18,7 @@ If you feel that part of these instructions are unclear or additional steps requ
 ## Technology 
 From this point you will start using supporting technologies.
 
-1. Typescript for your coding
-2. Sass for css development
+1. Sass for css development
 
 You will also start writing tests for your projects must have a keen understanding of:
 
