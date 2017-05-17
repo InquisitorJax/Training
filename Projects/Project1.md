@@ -21,6 +21,7 @@ Here you will learn the fundamentals you will use again in web components.
 2. How to manage arrays of information
 3. How to marray DOM elements with data items
 4. How to manage memory as NOT to have any memory leaks.
+5. Functional vs OOP in javascript and when to use what.
 
 ## Resources
 
@@ -66,3 +67,8 @@ You need to create a simple todo application.
 4. Filter list using a search function, filtering as you type
 5. Complete a todo item so it shows completed (gray with a strike through)
 6. Persist data using local storage.
+
+## Before you get started
+Please make sure you have read and understand all the coding standards as described in:  
+https://github.com/caperavensoftware/coding-standard
+
