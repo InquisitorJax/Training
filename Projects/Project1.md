@@ -26,13 +26,13 @@ Here you will learn the fundamentals you will use again in web components.
 ## Resources
 
 ### Javascript basics
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
-https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
-https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
-https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener
-https://developer.mozilla.org/en/docs/Web/API/DocumentFragment
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array  
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind  
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener  
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener  
+https://developer.mozilla.org/en/docs/Web/API/DocumentFragment  
 
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Map  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap  
