@@ -27,3 +27,10 @@ https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-c
 
 ## Web Components
 https://app.pluralsight.com/library/courses/web-components-shadow-dom/table-of-contents
+
+## DOM Performance
+https://www.youtube.com/watch?v=q_O9_C2ZjoA
+https://www.youtube.com/watch?v=a2_6bGNZ7bA
+https://developers.google.com/speed/articles/reflow
+http://www.html5rocks.com/en/tutorials/workers/basics/
+http://www.html5rocks.com/en/search?q=performance
