@@ -16,15 +16,27 @@ No frameworks to worry about, just plain old javascript.
 To some degree this is a bit more difficult to work with but the lessons are important.
 Here you will learn the fundamentals you will use again in web components.
 
+## Fundimentals
+1. Seperation of concern between working with the DOM and data
+2. How to manage arrays of information
+3. How to marray DOM elements with data items
+4. How to manage memory as NOT to have any memory leaks.
+
 ## Resources
+
+### Javascript basics
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener
 https://developer.mozilla.org/en/docs/Web/API/DocumentFragment
+
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Map  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet  
 
 ### CSS Selectors
 https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector  
@@ -34,6 +46,10 @@ https://www.w3schools.com/cssref/css_selectors.asp
 
 ### Arrow functions
 https://www.youtube.com/watch?v=6sQDTgOqh-I
+
+### Local Storage
+https://developer.mozilla.org/en/docs/Web/API/Window/localStorage  
+https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/
 
 ## Before you start
 You will need to save your projects to github so you need to create a github account.
@@ -49,4 +65,4 @@ You need to create a simple todo application.
 3. Show list of todo items
 4. Filter list using a search function, filtering as you type
 5. Complete a todo item so it shows completed (gray with a strike through)
-6. Data must be stored in a in memory store, don't worry about saving it between sessions.
+6. Persist data using local storage.
