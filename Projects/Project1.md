@@ -55,7 +55,7 @@ https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/
 ## Accessability
 https://www.w3.org/TR/wai-aria/roles
 
-See. roles for listbox and listitem
+See. roles for list, listbox and listitem
 
 ## Before you start
 You will need to save your projects to github so you need to create a github account.
