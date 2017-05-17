@@ -27,6 +27,15 @@ https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener
 https://developer.mozilla.org/en/docs/Web/API/DocumentFragment
 
+### CSS Selectors
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+https://developer.mozilla.org/en-US/docs/Web/API/Element/querySelectorAll
+https://www.youtube.com/watch?v=k69s-XlnVnE
+https://www.w3schools.com/cssref/css_selectors.asp
+
+### Arrow functions
+https://www.youtube.com/watch?v=6sQDTgOqh-I
+
 ## Before you start
 You will need to save your projects to github so you need to create a github account.
 Also install github desktop.
