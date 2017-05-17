@@ -6,13 +6,6 @@ https://app.pluralsight.com/library/courses/advanced-javascript/table-of-content
 ## HTTP2
 https://app.pluralsight.com/library/courses/http2-fundamentals/table-of-contents
 
-## DOM Performance
-https://www.youtube.com/watch?v=q_O9_C2ZjoA
-https://www.youtube.com/watch?v=a2_6bGNZ7bA
-https://developers.google.com/speed/articles/reflow
-http://www.html5rocks.com/en/tutorials/workers/basics/
-http://www.html5rocks.com/en/search?q=performance
-
 ## Webkit Rendering
 https://webkit.org/blog/114/webcore-rendering-i-the-basics/
 https://webkit.org/blog/115/webcore-rendering-ii-blocks-and-inlines/
