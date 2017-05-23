@@ -13,6 +13,3 @@ https://app.pluralsight.com/library/courses/aurelia-fundamentals/table-of-conten
 
 ## Chrome Dev Tools
 https://app.pluralsight.com/library/courses/chrome-developer-tools/table-of-contents
-
-## NPM
-https://app.pluralsight.com/library/courses/npm-playbook/table-of-contents
