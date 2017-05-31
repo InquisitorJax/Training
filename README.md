@@ -6,6 +6,7 @@ This training is meant for Pragma Products developers getting started with web t
 
 ## Levels
 There are four levels of training.  
+Level 0 is for beginners.
 Level 1 is for beginners.  
 Level 2 is for people who use the technology every day to do their work.  
 Level 3 is for more advanced users and  
