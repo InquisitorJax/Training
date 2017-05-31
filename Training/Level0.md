@@ -1,4 +1,4 @@
-# Level 1 - Getting Started
+# Level 0 - Getting Started
 Things you need to know before you can start writing applications
 
 There are three main technologies that you must know to write any web application:
