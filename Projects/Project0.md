@@ -38,24 +38,3 @@
  If you need html elements that are not supported by default, you can use this cheatsheet as a reference:  
  https://github.com/pragmaproducts/Training/blob/master/Cheatsheets/HTML5-cheat-sheet.pdf
  
-## CSS Classes you may need
- There are not many scenarios where you will need to apply styling. You certainly don't have to create any css classes yourself.
- The following classes already exist for you to use.
- 
- 1. container
- 1. vertical
- 1. horizontal
- 1. stretch
- 1. default-padding
- 1. default-padding-left
- 1. default-padding-right
- 1. default-padding-bottom
- 1. checkbox-composite
- 
- CSS details can be found at:  
- https://github.com/pragmaproducts/pragma-views/tree/master/sass/lib.
- 
- In particular you can look at:  
-1. Layout
- 1. Mixins
- 
