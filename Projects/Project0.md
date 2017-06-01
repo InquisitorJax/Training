@@ -21,6 +21,9 @@
  https://github.com/pragmaproducts/pragma-screengen/blob/master/src/resources/staff-template.js
  
  Make changes to this file so that the design found in developer notes is implemented.
+ All the rest has been done for you. When you click on the list, that item will be the selcted object and it's details displayed.
+
+ The data is defined in the staff-data, also in the resources folder. You will notice that the "unknown" record has more fields defined and thus should show more details that the others.
  
  ## Viewing your changes
  There are two terminal commands you need to know to build the project and spawn a server to view those changes.
@@ -38,3 +41,9 @@
  If you need html elements that are not supported by default, you can use this cheatsheet as a reference:  
  https://github.com/pragmaproducts/Training/blob/master/Cheatsheets/HTML5-cheat-sheet.pdf
  
+## Note
+The styling as sefined in the mockup and that you see when doing this project might not match up in some cases. 
+You don't have to worry about that. These may include things like checkbox background colors and required items having a red * next to the title. The purpose of this excersize is familiarize yourself with the schema mechanincs on how to put togeather a schema to be used in the dynamic screen mechanism. The styles will change and be updated over time so don't worry about it when colors don't match.
+
+Your project must have one tab on it.
+Some group items have headers ("HEADER", "PERSONAL DETAILS", .... These headers you can make h2 elements.
