@@ -47,3 +47,13 @@ You don't have to worry about that. These may include things like checkbox backg
 
 Your project must have one tab on it.
 Some group items have headers ("HEADER", "PERSONAL DETAILS", .... These headers you can make h2 elements.
+
+When defining the field maps in the schema, use a 1:1 relation with the property defined in the model.
+```
+ {
+     "field": "firstName",
+     "map": "firstName"
+ }
+```
+
+
