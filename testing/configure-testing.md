@@ -1,4 +1,4 @@
-# Configuring Webstorm 
+# Configuring for testing 
 
 It is often usefull to test your code by placing breakpoints in your code. This document will describe to you how to configure your webstorm to allow for better testing.
 Please note that this document assumes you will be using build-utilities-commandline in your project though it is not required for the content of this document.
@@ -66,3 +66,20 @@ you will also need to add the following to the root of the package.json configur
 
 When you run the test script it will now do testing and code coverage of your files. It will transpile both your tests and code from ES6 before running the tests.
 When the tests are done running it will create a coverage folder at the root of your project containing a index.html file describing the detailed coverage of your code.
+
+# Webstorm configuration
+
+If you want to debug your tests, the best way to do that is by using webstorm to set breakpoints in your code to tests. To make that work you will need to make some changes.
+
+In the application menu click on run and then configuration, this will show you the run/debug configuration window.
+On the left side is a treeview and one of the items is called `Defaults`. Expand defaults and select `Mocha`.  
+In the `Extra Mocha options` past the following:
+```
+--compilers js:babel-core/register
+```
+ 
+Once you have done that you can right click on a test file and select either the run or debug option.
+This will run the entire test file.
+
+If you open a test file on the left gutter you will notice green circular arrow next to tests. To run or debug only that test you can click on the green circular arrow and select either run or debug.
+
