@@ -18,3 +18,8 @@ You have to do Project 1 before you do Project 2.
 
 If you like you can do the training for Level 1 and the do Project 1.  
 Do the training for Level 2 and then do Project 2.
+
+# Before you get started
+1. Read all the coding standards as defined:  
+https://github.com/pragmaproducts/coding-standard
+
