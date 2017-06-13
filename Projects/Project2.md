@@ -15,7 +15,7 @@ Please note that this project must also be added to github please.
 ## Starting a new project
 To create a new project: 
 1. Create a project folder.
-1. Using web project assist, select that folder and create a new project.
+1. Using [build-utilities-commandline](https://github.com/caperavensoftware/build-utilities-commandline-2), select that folder and create a new project.
 
 ## Technology 
 From this point you will start using supporting technologies.
