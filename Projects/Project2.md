@@ -64,3 +64,8 @@ See the build utilities wiki for more details on the what auditing is available.
 
 ### Designs
 Please follow the following designs for [mobile](https://github.com/pragmaproducts/Training/blob/master/Images/project2-mobile.png) and [desktop](https://github.com/pragmaproducts/Training/blob/master/Images/project2-desktop.png)
+
+1. Please make note of the styling differences between not selected, selected and done items.
+1. The add button is a normal button styled to look round, no graphics used except for the + svg icon used in the middel.
+1. If you have difficulty styling the checkboxes to look as per the design you can leave them as normal checkboxes.
+The done item however must not have  checkbox but a checked svg image.
