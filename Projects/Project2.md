@@ -9,6 +9,9 @@ Please note that this will also create tests for you to maintain and extend.
 
 The application should be tested on multiple browsers on different devices.
 This includes firefox, chrome on desktop. Test the application on atleast one mobile device.
+The application layout must be responsive and work perfectly on all devices as present in chrome dev tools.
+
+Hint: you will need to use media queries.
 
 Please note that this project must also be added to github please.
 
