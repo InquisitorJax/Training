@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef83fb66-f36c-4659-b63d-f9b985878605" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/project2-desktop.png" afterPath="$PROJECT_DIR$/Images/project2-desktop.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/project2-mobile.png" afterPath="$PROJECT_DIR$/Images/project2-mobile.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -25,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Project3.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Project3.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Projects/Project3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -35,13 +35,6 @@
               </first_editor>
               <second_editor />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project2-mobile.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Images/project2-mobile.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -259,7 +252,7 @@
       <updated>1470810017552</updated>
       <workItem from="1470810018913" duration="6274000" />
       <workItem from="1470817799125" duration="73000" />
-      <workItem from="1497448549533" duration="198000" />
+      <workItem from="1497448549533" duration="263000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1470812992791</created>
@@ -310,11 +303,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497448593663</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added images">
+      <created>1497448768332</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1497448768332</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6545000" />
+    <option name="totallyTimeSpent" value="6610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="22" width="1751" height="1417" extended-state="0" />
@@ -379,6 +379,11 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Images/project2-mobile.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/Project3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -388,11 +393,6 @@
           </first_editor>
           <second_editor />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Images/project2-mobile.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
   </component>
