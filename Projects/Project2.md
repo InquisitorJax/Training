@@ -12,6 +12,15 @@ This includes firefox, chrome on desktop. Test the application on atleast one mo
 
 Please note that this project must also be added to github please.
 
+## Global packages you must have installed
+1. build-utilities-commandline
+1. http-server
+1. jspm
+
+To install a global package use the following command
+
+`npm install -g <packagename>` e.g. `npm install -g jspm`
+
 ## Starting a new project
 To create a new project: 
 1. Create a project folder.
