@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef83fb66-f36c-4659-b63d-f9b985878605" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/project2-desktop.png" afterPath="$PROJECT_DIR$/Images/project2-desktop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/project2-mobile.png" afterPath="$PROJECT_DIR$/Images/project2-mobile.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/Project2.md" afterPath="$PROJECT_DIR$/Projects/Project2.md" />
     </list>
     <list id="ed43e1f3-20c1-4fc3-ab67-6f8e12da722d" name="Failed commit: Default" comment="initial" />
     <ignored path="Training.iws" />
@@ -25,12 +24,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Project3.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Project3.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projects/Project3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="315">
                 <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Project2.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Projects/Project2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="759">
+                <caret line="65" column="229" lean-forward="false" selection-start-line="65" selection-start-column="229" selection-end-line="65" selection-end-column="229" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -56,6 +68,7 @@
         <option value="$PROJECT_DIR$/Training/Level2.md" />
         <option value="$PROJECT_DIR$/Training/Level1.md" />
         <option value="$PROJECT_DIR$/Projects/Project3.md" />
+        <option value="$PROJECT_DIR$/Projects/Project2.md" />
       </list>
     </option>
   </component>
@@ -252,7 +265,7 @@
       <updated>1470810017552</updated>
       <workItem from="1470810018913" duration="6274000" />
       <workItem from="1470817799125" duration="73000" />
-      <workItem from="1497448549533" duration="263000" />
+      <workItem from="1497448549533" duration="412000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1470812992791</created>
@@ -310,11 +323,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497448768332</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added images">
+      <created>1497448837420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1497448837420</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6610000" />
+    <option name="totallyTimeSpent" value="6759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="22" width="1751" height="1417" extended-state="0" />
@@ -373,7 +393,6 @@
     <entry file="file://$PROJECT_DIR$/Training/Level4.md" />
     <entry file="file://$PROJECT_DIR$/Training/Level2.md" />
     <entry file="file://$PROJECT_DIR$/Training/Level1.md" />
-    <entry file="file://$PROJECT_DIR$/Projects/Project2.md" />
     <entry file="file://$PROJECT_DIR$/Images/project2-desktop.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -389,6 +408,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="315">
             <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/Project2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="759">
+            <caret line="65" column="229" lean-forward="false" selection-start-line="65" selection-start-column="229" selection-end-line="65" selection-end-column="229" />
             <folding />
           </first_editor>
           <second_editor />

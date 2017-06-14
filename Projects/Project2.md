@@ -61,3 +61,6 @@ In addition to that we require:
 3. All audits to pass on all code and html.
 
 See the build utilities wiki for more details on the what auditing is available.
+
+### Designs
+Please follow the following designs for [mobile](https://github.com/pragmaproducts/Training/blob/master/Images/project2-mobile.png) and [desktop](https://github.com/pragmaproducts/Training/blob/master/Images/project2-desktop.png)
