@@ -7,13 +7,6 @@ https://app.pluralsight.com/library/courses/javascript-systemjs-jspm/table-of-co
 ## Regular Expressions
 https://app.pluralsight.com/library/courses/regular-expressions-fundamentals/table-of-contents
 
-## CSS In Depth
-https://app.pluralsight.com/library/courses/css3-in-depth/table-of-contents  
-https://www.youtube.com/watch?v=4IRPxCMAIfA#t=1661.48233
-
-## Flex Boxes
-https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents
-
 ## CSS Transitions
 https://app.pluralsight.com/library/courses/elegant-navigation-css3-transitions-1975/table-of-contents
 

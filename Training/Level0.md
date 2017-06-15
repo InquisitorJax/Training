@@ -11,3 +11,7 @@ https://app.pluralsight.com/library/courses/html5-from-scratch/table-of-contents
 
 ## CSS3 - Fundimentals
 https://app.pluralsight.com/library/courses/css3-from-scratch/table-of-contents
+
+## Flex Boxes
+https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents
+

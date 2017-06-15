@@ -1,6 +1,10 @@
 # Level 2 - (Junior Grade) 
 Stuff you need everyday understanding of
 
+## CSS In Depth
+https://app.pluralsight.com/library/courses/css3-in-depth/table-of-contents  
+https://www.youtube.com/watch?v=4IRPxCMAIfA#t=1661.48233
+
 ## Mocha / Chai
 https://app.pluralsight.com/library/courses/unit-testing-nodejs/table-of-contents
 
