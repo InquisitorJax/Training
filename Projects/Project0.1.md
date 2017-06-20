@@ -5,3 +5,9 @@ In a single html file [implement the layout design](https://github.com/pragmapro
 This project must be added to github for review.
 
 Note: All html and css must be in a single file called index.html
+
+## NOTE:
+Please review the html elements you plan to use here:  
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+Note the use cases and ensure that you use the right elemens for the right reasons and in the right place. Please question any element you add and ask, do you serve a particular purpose of can I live with out you. If you can do the same thing with out that element you propably should.
