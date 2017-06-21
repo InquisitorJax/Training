@@ -83,3 +83,24 @@ This will run the entire test file.
 
 If you open a test file on the left gutter you will notice green circular arrow next to tests. To run or debug only that test you can click on the green circular arrow and select either run or debug.
 
+# VS Code
+You can debug your tests in vs code but you will need to first make some configuration.  
+You can start by reading this article on configuration:  
+https://code.visualstudio.com/docs/editor/debugging#_launch-configurations
+
+if you want to debug mocha tests, you can do so when you add and run this configuration  
+```
+"configurations": [
+    {
+        "name": "Run mocha",
+        "type": "node",
+        "request": "launch",
+        "program": "${workspaceRoot}/node_modules/mocha/bin/_mocha",
+        "stopOnEntry": false,
+        "args": ["--compilers", "js:babel-core/register", "--recursive",  "--no-timeouts"],
+        "cwd": "${workspaceRoot}",
+        "runtimeExecutable": null,
+        "env": { "NODE_ENV": "testing"}
+    }
+]
+```
