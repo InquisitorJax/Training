@@ -69,3 +69,10 @@ Please follow the following designs for [mobile](https://github.com/pragmaproduc
 1. The add button is a normal button styled to look round, no graphics used except for the + svg icon used in the middel.
 1. If you have difficulty styling the checkboxes to look as per the design you can leave them as normal checkboxes.
 The done item however must not have  checkbox but a checked svg image.
+
+## UI Tests
+Your application must also be tested using UITests.
+Under the tests folder, create another folder called "e2e" and in that folder you can create a json file that tests your application.
+
+See bucli wiki for details on how to manage the test schema:  
+https://github.com/pragmaproducts/build-utilities-commandline/wiki/Automated-UI-testing
