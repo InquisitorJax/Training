@@ -6,12 +6,14 @@
  Fork and implement the design for:  
  https://github.com/pragmaproducts/pragma-screengen
  
- You will need to have both npm and jspm installed.
- If you don't already, install nodejs from https://nodejs.org/en/ and jspm as:
- 
- `npm install -g jspm`
- 
  Please note that you will be using JSON so you will need to familiarize yourself with what that is.
+ 
+ ## Before you start
+ you will need:
+ 1. Nodejs minimum version of 8 https://nodejs.org/en/
+ 1. jspm install globally `npm install -g jspm`
+ 1. build utilities commandline installed globally `npm install -g build-utilities-commandline`
+ 1. http-server `npm install -g http-server`
  
  ## Getting started
  1. Read the template document to understand the schema rules  
@@ -35,8 +37,10 @@
  ## Viewing your changes
  There are two terminal commands you need to know to build the project and spawn a server to view those changes.
  
- 1. `gulp build:all`
- 2. `gulp serve`
+ 1. `bucli -c all`
+ 2. `http-server`
+ 
+ Open your browser at the address indicated to you by http-server in your console.
  
  Note that the server will run until you kill it in terminal, closing the browser does not stop the server.
  
