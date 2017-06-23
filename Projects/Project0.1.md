@@ -7,6 +7,7 @@ This project must be added to github for review.
 Note: All html and css must be in a single file called index.html
 
 The side panel should be 300px in width but you can't use pixels, you must use rem as your measurement.
+The header and footer panels must be 70px high using rem;
 The layout should fill the entire page and be adaptive to browser resizing.
 
 ## NOTE:
