@@ -6,6 +6,13 @@
  Fork and implement the design for:  
  https://github.com/pragmaproducts/pragma-screengen
  
+ You will need to have both npm and jspm installed.
+ If you don't already, install nodejs from https://nodejs.org/en/ and jspm as:
+ 
+ `npm install -g jspm`
+ 
+ Please note that you will be using JSON so you will need to familiarize yourself with what that is.
+ 
  ## Getting started
  1. Read the template document to understand the schema rules  
  https://github.com/pragmaproducts/pragma-views/blob/master/developer-notes/template-parser.md
